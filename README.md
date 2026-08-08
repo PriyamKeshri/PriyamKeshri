@@ -26,7 +26,6 @@ Currently, I'm focused on building **portfolio-grade AI/ML projects** and deepen
 
 - 🎓 **B.Tech in Computer Science & Engineering**
 - 🏫 Graphic Era Hill University, Dehradun
-- 📅 Graduated in **2023**
 - 🤖 Currently focused on **AI/ML & Generative AI**
 - 🧠 Learning deeper **Machine Learning, Neural Networks, Deep Learning & TensorFlow**
 - 🔎 Exploring **RAG, LLM applications, AI agents and agentic workflows**
@@ -43,6 +42,7 @@ Currently, I'm focused on building **portfolio-grade AI/ML projects** and deepen
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -56,6 +56,7 @@ Currently, I'm focused on building **portfolio-grade AI/ML projects** and deepen
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
 ### Currently Exploring
@@ -83,8 +84,10 @@ Currently, I'm focused on building **portfolio-grade AI/ML projects** and deepen
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CrewAI-111111?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
 Areas I'm working with:
@@ -140,7 +143,19 @@ Experience and interests include:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+---
+
+# 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge"/>
 </p>
 
 ---
@@ -500,9 +515,10 @@ I believe the best way to learn engineering is to **build real systems**, encoun
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyamKeshri&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyamKeshri&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyamKeshri&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyamKeshri&layout=compact&hide_border=true&langs_count=8" height="170"/>
 </p>
+
 
 ---
 
