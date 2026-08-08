@@ -512,28 +512,10 @@ I believe the best way to learn engineering is to **build real systems**, encoun
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyamKeshri&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyamKeshri&layout=compact&hide_border=true&langs_count=8" height="170"/>
-</p>
-
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PriyamKeshri&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PriyamKeshri/PriyamKeshri/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
