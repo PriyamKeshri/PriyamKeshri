@@ -166,36 +166,6 @@ Experience and interests include:
 
 An AI-powered legal research assistant designed around **RAG and agentic workflows**.
 
-### Architecture
-
-```text
-Documents
-    │
-    ▼
-Document Loader
-    │
-    ▼
-Text Splitter
-    │
-    ▼
-Embeddings
-    │
-    ▼
-Vector Database
-    │
-    ▼
-Retriever
-    │
-    ▼
-RAG Pipeline
-    │
-    ▼
-AI Agents
-    │
-    ▼
-Final Response
-```
-
 ### Technologies
 
 - Python
@@ -265,13 +235,6 @@ A collection of ML experiments and projects covering the complete workflow from 
 - Hyperparameter tuning
 - Model evaluation
 
-### Example Models
-
-- Logistic Regression
-- Decision Trees
-- Random Forest
-- Other classical ML algorithms
-
 ---
 
 ## 📈 Algorithmic Trading Bot
@@ -308,53 +271,8 @@ Paper Trading
 Live Execution
 ```
 
-### Areas of Focus
-
-- Market data pipelines
-- Technical indicators
-- Strategy development
-- Backtesting
-- Risk management
-- Portfolio management
-- Paper trading
-- Broker APIs
-- Performance analytics
-
 > ⚠️ Built as an engineering and research project, not as financial advice.
 
----
-
-# 📚 Learning Journey
-
-My current learning path is intentionally moving from **software engineering → machine learning → deep learning → generative AI → AI engineering**.
-
-```text
-Programming
-     │
-     ▼
-Data Analysis
-     │
-     ▼
-Machine Learning
-     │
-     ▼
-Deep Learning
-     │
-     ▼
-Computer Vision / NLP
-     │
-     ▼
-Generative AI
-     │
-     ▼
-RAG Systems
-     │
-     ▼
-AI Agents
-     │
-     ▼
-Production AI Applications
-```
 ---
 
 # 📌 Currently Working On
@@ -378,20 +296,6 @@ Production AI Applications
 
 ---
 
-# 📫 Let's Connect
-
-I'm interested in connecting with developers, AI/ML engineers, researchers and people building interesting products with technology.
-
-<p align="left">
-  <a href="https://www.linkedin.com/priyamkeshri">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:priyamkeshri@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
 
 ## 💭 Current Goal
 
