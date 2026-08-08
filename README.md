@@ -6,7 +6,7 @@
   <a href="https://github.com/PriyamKeshri">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/priyamkeshri">
+  <a href="https://in.linkedin.com/in/priyam-keshri-308848212">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:priyamkeshri@outlook.com">
