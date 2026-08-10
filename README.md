@@ -188,6 +188,35 @@ An AI-powered legal research assistant designed around **RAG and agentic workflo
 - AI-assisted legal research
 
 ---
+## ⚒️ AlgoForge — Interactive Algorithm Laboratory
+
+A modular, plugin-based platform for **visualizing, debugging, comparing, and understanding algorithms and data structures** through interactive execution.
+
+### Highlights
+
+- 🎬 Step-by-step execution & time travel
+
+- 🧩 Plugin-based algorithm architecture
+
+- 📊 Interactive arrays, graphs, trees & DP tables
+
+- ⚡ Web Worker-powered execution & worker pool
+
+- 🏁 Algorithm race mode & benchmarking
+
+- 📈 Complexity and performance analysis
+
+- 💻 Synchronized pseudocode/code visualization
+
+- 🤖 AI-powered algorithm explanations *(planned)*
+
+### Tech Stack
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `Zustand` `Web Workers` `pnpm` `Vitest` `Playwright`
+
+🔗 **[View Repository](https://github.com/PriyamKeshri/algo-forge)**
+
+---
 
 ## 🎵 Spotify Client
 
