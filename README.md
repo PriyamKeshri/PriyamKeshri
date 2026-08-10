@@ -195,19 +195,12 @@ A modular, plugin-based platform for **visualizing, debugging, comparing, and un
 ### Highlights
 
 - 🎬 Step-by-step execution & time travel
-
 - 🧩 Plugin-based algorithm architecture
-
 - 📊 Interactive arrays, graphs, trees & DP tables
-
 - ⚡ Web Worker-powered execution & worker pool
-
 - 🏁 Algorithm race mode & benchmarking
-
 - 📈 Complexity and performance analysis
-
 - 💻 Synchronized pseudocode/code visualization
-
 - 🤖 AI-powered algorithm explanations *(planned)*
 
 ### Tech Stack
@@ -241,7 +234,7 @@ A full-featured Spotify client built using modern React and TypeScript.
 - ⚡ Modern React architecture
 
 The project is structured around an **audio patch-bay concept**, routing playback, discovery and library functionality through a unified interface.
-
+🔗 **[View Repository](https://github.com/PriyamKeshri/Spotify-Audio-Patch-Bay)**
 ---
 
 ## 📊 Machine Learning Projects
@@ -264,6 +257,7 @@ A collection of ML experiments and projects covering the complete workflow from 
 - Hyperparameter tuning
 - Model evaluation
 
+🔗 **[View Repository](https://github.com/PriyamKeshri/Machine-Learning-Projects-1.0)**
 ---
 
 ## 📈 Algorithmic Trading Bot
