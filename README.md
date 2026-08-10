@@ -234,6 +234,7 @@ A full-featured Spotify client built using modern React and TypeScript.
 - ⚡ Modern React architecture
 
 The project is structured around an **audio patch-bay concept**, routing playback, discovery and library functionality through a unified interface.
+
 🔗 **[View Repository](https://github.com/PriyamKeshri/Spotify-Audio-Patch-Bay)**
 ---
 
