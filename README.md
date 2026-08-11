@@ -92,18 +92,18 @@ Currently, I'm focused on building **portfolio-grade AI/ML projects** and deepen
 
 Areas I'm working with:
 
-- 🔹 LLM-powered applications
-- 🔹 Prompt engineering
-- 🔹 Embeddings
-- 🔹 Vector databases
-- 🔹 Semantic search
-- 🔹 RAG pipelines
-- 🔹 Document loaders & text splitting
-- 🔹 AI agents
-- 🔹 Multi-agent systems
-- 🔹 Tool calling
-- 🔹 LLM application orchestration
-- 🔹 Streamlit AI applications
+ 🔹 LLM-powered applications
+ 🔹 Prompt engineering
+ 🔹 Embeddings
+ 🔹 Vector databases
+ 🔹 Semantic search
+ 🔹 RAG pipelines
+ 🔹 Document loaders & text splitting
+ 🔹 AI agents
+ 🔹 Multi-agent systems
+ 🔹 Tool calling
+ 🔹 LLM application orchestration
+ 🔹 Streamlit AI applications
 
 ---
 
