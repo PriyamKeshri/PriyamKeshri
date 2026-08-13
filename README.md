@@ -60,23 +60,6 @@ Currently, I'm focused on building **portfolio-grade AI/ML projects** and deepen
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
-### Currently Exploring
-
-- Machine Learning
-- Feature Engineering
-- Model Evaluation
-- Neural Networks
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Generative AI
-- Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Agentic Workflows
-- Vector Databases
-- Embeddings
-
 ---
 
 # 🤖 Generative AI
@@ -91,21 +74,6 @@ Currently, I'm focused on building **portfolio-grade AI/ML projects** and deepen
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
-Areas I'm working with:
-
-* LLM-powered applications
-* Prompt engineering
-* Embeddings
-* Vector databases
-* Semantic search
-* RAG pipelines
-* Document loaders & text splitting
-* AI agents
-* Multi-agent systems
-* Tool calling
-* LLM application orchestration
-* Streamlit AI applications
-
 ---
 
 # 🌐 Web Development
@@ -119,19 +87,6 @@ Areas I'm working with:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
-
-Experience and interests include:
-
-- React applications
-- TypeScript
-- REST APIs
-- FastAPI
-- Node.js
-- API integration
-- Frontend development
-- Backend development
-- Responsive interfaces
-- Full-stack applications
 
 ---
 
@@ -161,160 +116,6 @@ Experience and interests include:
 
 ---
 
-# 🚀 Featured Projects
-
-## 🤖 AI Legal Assistant
-
-An AI-powered legal research assistant designed around **RAG and agentic workflows**.
-
-### Technologies
-
-- Python
-- LangChain
-- CrewAI
-- ChromaDB
-- Sentence Transformers
-- Hugging Face
-- Streamlit
-- Tavily
-- LLM APIs
-
-### Focus
-
-- Retrieval-Augmented Generation
-- Semantic search
-- Agent orchestration
-- Document understanding
-- Multi-agent workflows
-- AI-assisted legal research
-
----
-## ⚒️ AlgoForge — Interactive Algorithm Laboratory
-
-A modular, plugin-based platform for **visualizing, debugging, comparing, and understanding algorithms and data structures** through interactive execution.
-
-### Highlights
-
-- 🎬 Step-by-step execution & time travel
-- 🧩 Plugin-based algorithm architecture
-- 📊 Interactive arrays, graphs, trees & DP tables
-- ⚡ Web Worker-powered execution & worker pool
-- 🏁 Algorithm race mode & benchmarking
-- 📈 Complexity and performance analysis
-- 💻 Synchronized pseudocode/code visualization
-- 🤖 AI-powered algorithm explanations *(planned)*
-
-### Tech Stack
-
-`React` `TypeScript` `Vite` `Tailwind CSS` `Zustand` `Web Workers` `pnpm` `Vitest` `Playwright`
-
-🔗 **[View Repository](https://github.com/PriyamKeshri/algo-forge)**
-
----
-
-## 🎵 Spotify Client
-
-A full-featured Spotify client built using modern React and TypeScript.
-
-### Technologies
-
-- React 19
-- TypeScript
-- Tailwind CSS 4
-- Spotify Web API
-- PKCE Authentication
-- REST APIs
-
-### Features
-
-- 🎧 Music playback
-- 🔍 Music discovery
-- 📚 Library management
-- 🔐 OAuth / PKCE authentication
-- 🎵 Spotify API integration
-- ⚡ Modern React architecture
-
-The project is structured around an **audio patch-bay concept**, routing playback, discovery and library functionality through a unified interface.
-
-🔗 **[View Repository](https://github.com/PriyamKeshri/Spotify-Audio-Patch-Bay)**
-
----
-
-## 📊 Machine Learning Projects
-
-A collection of ML experiments and projects covering the complete workflow from data preprocessing to model evaluation.
-
-### Topics
-
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- Data preprocessing
-- Missing-value handling
-- Feature transformation
-- Feature engineering
-- Classification
-- Regression
-- Cross-validation
-- Hyperparameter tuning
-- Model evaluation
-
-🔗 **[View Repository](https://github.com/PriyamKeshri/Machine-Learning-Projects-1.0)**
-
----
-
-## 📈 Algorithmic Trading Bot
-
-A portfolio project exploring **algorithmic trading for Indian markets**.
-
-### Planned Architecture
-
-```text
-Market Data
-     │
-     ▼
-Data Processing
-     │
-     ▼
-Technical Indicators
-     │
-     ▼
-Strategy Engine
-     │
-     ▼
-Signal Generation
-     │
-     ▼
-Risk Management
-     │
-     ▼
-Backtesting
-     │
-     ▼
-Paper Trading
-     │
-     ▼
-Live Execution
-```
-
-> ⚠️ Built as an engineering and research project, not as financial advice.
-
----
-
-# 📌 Currently Working On
-
-- 🤖 Generative AI applications
-- 🧠 Machine Learning & Deep Learning
-- 🔎 RAG systems
-- 🧩 AI agent architectures
-- 📚 Building portfolio-grade projects
-- 📈 Algorithmic trading systems
-- ⚙️ Backend/API development
-- 🌐 Modern React applications
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
@@ -322,7 +123,6 @@ Live Execution
 </p>
 
 ---
-
 
 ## 💭 Current Goal
 
