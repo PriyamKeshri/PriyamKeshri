@@ -62,7 +62,7 @@ Currently, I'm focused on building **portfolio-grade AI/ML projects** and deepen
 
 ---
 
-# 🤖 Generative AI
+## 🤖 Generative AI
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
@@ -76,7 +76,7 @@ Currently, I'm focused on building **portfolio-grade AI/ML projects** and deepen
 
 ---
 
-# 🌐 Web Development
+## 🌐 Web Development
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -90,7 +90,7 @@ Currently, I'm focused on building **portfolio-grade AI/ML projects** and deepen
 
 ---
 
-# ☁️ Cloud & Tools
+## ☁️ Cloud & Tools
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -105,7 +105,7 @@ Currently, I'm focused on building **portfolio-grade AI/ML projects** and deepen
 
 ---
 
-# 🗄️ Databases
+## 🗄️ Databases
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -116,7 +116,7 @@ Currently, I'm focused on building **portfolio-grade AI/ML projects** and deepen
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PriyamKeshri&theme=tokyonight&hide_border=true" />
@@ -124,7 +124,7 @@ Currently, I'm focused on building **portfolio-grade AI/ML projects** and deepen
 
 ---
 
-## 💭 Current Goal
+### 💭 Current Goal
 
 > **Build intelligent systems that are not just impressive demos, but useful, maintainable and production-ready applications.**
 
