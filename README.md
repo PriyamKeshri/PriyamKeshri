@@ -20,6 +20,7 @@ I'm a **Computer Science graduate** with a strong interest in **Artificial Intel
 I enjoy turning ideas into practical applications — from machine learning pipelines and RAG systems to AI-powered applications, APIs, web applications, and developer tools.
 
 Currently, I'm focused on building **portfolio-grade AI/ML projects** and deepening my understanding of modern AI engineering.
+
 ---
 
 ## 🧑‍💻 About Me
