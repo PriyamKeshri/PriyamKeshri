@@ -15,21 +15,11 @@
   </a>
 </p>
 
-
-
 I'm a **Computer Science graduate** with a strong interest in **Artificial Intelligence, Machine Learning, Generative AI, and Software Engineering**.
 
 I enjoy turning ideas into practical applications — from machine learning pipelines and RAG systems to AI-powered applications, APIs, web applications, and developer tools.
 
 Currently, I'm focused on building **portfolio-grade AI/ML projects** and deepening my understanding of modern AI engineering.
-
-<p align="left">
-  <a href="mailto:priyamkeshri@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-
 ---
 
 ## 🧑‍💻 About Me
