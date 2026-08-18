@@ -16,8 +16,6 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=PriyamKeshri&style=for-the-badge&color=4ADE80" alt="Profile views"/>
-
 </div>
 
 I'm a **Computer Science graduate** with a strong interest in **Artificial Intelligence, Machine Learning, Generative AI, and Software Engineering**.
