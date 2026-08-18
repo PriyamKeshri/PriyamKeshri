@@ -23,17 +23,17 @@ Currently, I'm focused on building **portfolio-grade AI/ML projects** and deepen
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 **B.Tech in Computer Science & Engineering**
-- 🏫 Graphic Era Hill University, Dehradun
-- 🤖 Currently focused on **AI/ML & Generative AI**
-- 🧠 Learning deeper **Machine Learning, Neural Networks, Deep Learning & TensorFlow**
-- 🔎 Exploring **RAG, LLM applications, AI agents and agentic workflows**
-- 🛠️ Building practical projects rather than only following tutorials
-- 📈 Interested in **algorithmic trading and quantitative systems**
-- 💻 Strong interest in backend, APIs and full-stack application development
-- 🚀 Goal: build production-quality AI systems and grow into an **AI/ML Engineer**
+-  **B.Tech in Computer Science & Engineering**
+-  Graphic Era Hill University, Dehradun
+-  Currently focused on **AI/ML & Generative AI**
+-  Learning deeper **Machine Learning, Neural Networks, Deep Learning & TensorFlow**
+-  Exploring **RAG, LLM applications, AI agents and agentic workflows**
+-  Building practical projects rather than only following tutorials
+-  Interested in **algorithmic trading and quantitative systems**
+-  Strong interest in backend, APIs and full-stack application development
+-  Goal: build production-quality AI systems and grow into an **AI/ML Engineer**
 
 ---
 
