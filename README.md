@@ -1,19 +1,24 @@
+<div align="center">
+
 # 👋 Hi, I'm Priyam Keshri
 
 ### AI/ML Engineer • GenAI Developer • Software Engineer
 
-<p align="left">
+<p>
   <a href="https://github.com/PriyamKeshri">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://in.linkedin.com/in/priyam-keshri-308848212">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<p align="left">
   <a href="mailto:priyamkeshri@outlook.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=PriyamKeshri&style=for-the-badge&color=4ADE80" alt="Profile views"/>
+
+</div>
 
 I'm a **Computer Science graduate** with a strong interest in **Artificial Intelligence, Machine Learning, Generative AI, and Software Engineering**.
 
@@ -23,7 +28,7 @@ Currently, I'm focused on building **portfolio-grade AI/ML projects** and deepen
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
 -  **B.Tech in Computer Science & Engineering**
 -  Graphic Era Hill University, Dehradun
@@ -123,7 +128,7 @@ Currently, I'm focused on building **portfolio-grade AI/ML projects** and deepen
 
 AI-powered resume analyzer built with Streamlit and the Google Gemini API. Scores a resume against a job description, surfaces keyword gaps, generates a tailored cover letter, rewrites weak bullet points, and checks grammar/spelling — with Markdown/PDF export.
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
@@ -137,7 +142,7 @@ AI-powered resume analyzer built with Streamlit and the Google Gemini API. Score
 
 Interactive algorithm laboratory for visualizing, debugging, comparing, and understanding algorithms and data structures — step-by-step execution, time-travel debugging, benchmarking, and an AI-powered tutor.
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
@@ -152,7 +157,7 @@ Interactive algorithm laboratory for visualizing, debugging, comparing, and unde
 
 Fair group movie recommendation system — matrix factorization built from scratch, cold-start profiling for new users, and multiple social-choice strategies that balance individual preferences with group fairness.
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -170,12 +175,16 @@ Fair group movie recommendation system — matrix factorization built from scrat
 
 ---
 
-### 💭 Current Goal
+## 💭 Current Goal
 
 > **Build intelligent systems that are not just impressive demos, but useful, maintainable and production-ready applications.**
 
 ---
 
-<p align="center">
-  <i>Thanks for visiting my profile! ⭐</i>
-</p>
+<div align="center">
+
+**Thanks for stopping by — always happy to connect and talk about AI/ML, GenAI, or interesting engineering problems.**
+
+⭐ *If any of these projects are useful to you, a star is always appreciated!*
+
+</div>
