@@ -115,6 +115,22 @@ Currently, I'm focused on building **portfolio-grade AI/ML projects** and deepen
 
 ---
 
+## 🚀 Projects
+
+### [Resume ATS Tracker](https://github.com/PriyamKeshri/Resume-ATS-Tracking)
+
+AI-powered resume analyzer built with Streamlit and the Google Gemini API. Scores a resume against a job description, surfaces keyword gaps, generates a tailored cover letter, rewrites weak bullet points, and checks grammar/spelling — with Markdown/PDF export.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+🔗 [Live Demo](https://track-resume-ats.streamlit.app) · [Source Code](https://github.com/PriyamKeshri/Resume-ATS-Tracking)
+
+---
+
 ## 🔥 Contribution Streak
 
 <p align="center">
