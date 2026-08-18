@@ -131,6 +131,35 @@ AI-powered resume analyzer built with Streamlit and the Google Gemini API. Score
 
 ---
 
+### [AlgoForge](https://github.com/PriyamKeshri/Algo-forge)
+
+Interactive algorithm laboratory for visualizing, debugging, comparing, and understanding algorithms and data structures — step-by-step execution, time-travel debugging, benchmarking, and an AI-powered tutor.
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+🔗 [Live Demo](https://algo-forge.vercel.app) · [Source Code](https://github.com/PriyamKeshri/Algo-forge)
+
+---
+
+### [GroupRecs](https://github.com/PriyamKeshri/GroupRecs)
+
+Fair group movie recommendation system — matrix factorization built from scratch, cold-start profiling for new users, and multiple social-choice strategies that balance individual preferences with group fairness.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+🔗 [Live Demo](https://priyamkeshri-grouprecs-app.streamlit.app) · [Source Code](https://github.com/PriyamKeshri/GroupRecs)
+
+---
+
 ## 🔥 Contribution Streak
 
 <p align="center">
