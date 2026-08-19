@@ -167,7 +167,7 @@ Fair group movie recommendation system — matrix factorization built from scrat
 
 ## 🔥 Contribution Streak
 
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com?user=PriyamKeshri&theme=tokyonight&hide_border=true" />
 </p>
 
