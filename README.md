@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Priyam Keshri
 
-### AI/ML Engineer • GenAI Developer • Software Engineer
+### GenAI Developer
 
 <p>
   <a href="https://github.com/PriyamKeshri">
