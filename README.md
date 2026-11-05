@@ -122,6 +122,51 @@ Currently, I'm focused on building **portfolio-grade AI/ML projects** and deepen
 
 ## 🚀 Projects
 
+### [Agentic Support Assistant](https://github.com/PriyamKeshri/Support-Assistant)
+
+IT help desk assistant that answers from company policy PDFs, cites its sources, and says so when it doesn't know. Hybrid keyword + vector search in Postgres with pgvector, rank fusion and cross-encoder reranking, streamed answers from a local LLM, and its own eval harness — the right policy section ranks first for 89% of questions.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+🔗 [Eval Results](https://github.com/PriyamKeshri/Support-Assistant#results) · [Source Code](https://github.com/PriyamKeshri/Support-Assistant)
+
+---
+
+### [AI Legal Assistant](https://github.com/PriyamKeshri/Ai-Legal-Assistant)
+
+Local-first RAG assistant for legal documents: chat with contracts and judgments with page-level citations, summarize long opinions with map-reduce, search by meaning, and hand open-ended questions to a CrewAI researcher → analyst → summarizer crew. Runs on a local Ollama model, so documents never leave your machine.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CrewAI-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+</p>
+
+🔗 [Live Demo](https://legal-doc-assistant.streamlit.app) · [Source Code](https://github.com/PriyamKeshri/Ai-Legal-Assistant)
+
+---
+
+### [Spendwise](https://github.com/PriyamKeshri/Spendwise)
+
+Private Android expense tracker that does the bookkeeping from your bank's SMS alerts — tuned for SBI, with HDFC, ICICI, Axis and Kotak formats too. Imports Paytm UPI statements for payments SMS misses, learns your categories as you correct them, and turns your history into saving tips. No account, no cloud, no internet permission.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+</p>
+
+🔗 [Download APK](https://github.com/PriyamKeshri/Spendwise/releases/latest) · [Source Code](https://github.com/PriyamKeshri/Spendwise)
+
+---
+
 ### [Resume ATS Tracker](https://github.com/PriyamKeshri/Resume-ATS-Tracking)
 
 AI-powered resume analyzer built with Streamlit and the Google Gemini API. Scores a resume against a job description, surfaces keyword gaps, generates a tailored cover letter, rewrites weak bullet points, and checks grammar/spelling — with Markdown/PDF export.
