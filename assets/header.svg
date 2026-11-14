@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title">
+  <title id="title">Priyam Keshri, GenAI Developer. I build RAG systems, AI agents and ML apps that stay useful beyond the demo.</title>
+  <style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}.cursor{animation:blink 1.2s steps(1) infinite}@keyframes blink{50%{opacity:0}}@media (prefers-reduced-motion:reduce){.cursor{animation:none}}</style>
+  <defs>
+    <clipPath id="clip"><rect width="1200" height="300" rx="20"/></clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#1A1540"/>
+    </linearGradient>
+    <radialGradient id="glowA"><stop offset="0" stop-color="#6366F1" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowB"><stop offset="0" stop-color="#14B8A6" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowC"><stop offset="0" stop-color="#8B5CF6" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#FFFFFF" fill-opacity="0.07"/></pattern>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6366F1"/><stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+    <linearGradient id="name" gradientUnits="userSpaceOnUse" x1="330" y1="0" x2="540" y2="0">
+      <stop offset="0" stop-color="#A5B4FC"/><stop offset="1" stop-color="#5EEAD4"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.40"/>
+    </filter>
+  </defs>
+  <g clip-path="url(#clip)"><rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#dots)"/>
+  <ellipse cx="930" cy="30" rx="440" ry="300" fill="url(#glowA)"/>
+  <ellipse cx="1170" cy="320" rx="300" ry="220" fill="url(#glowB)"/>
+  <ellipse cx="60" cy="310" rx="400" ry="210" fill="url(#glowC)"/></g>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="19.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+
+  <g transform="translate(64 50)"><rect width="64" height="64" rx="16" fill="url(#brand)"/>
+    <text x="32" y="42.5" font-size="27" font-weight="800" fill="#FFFFFF" text-anchor="middle" letter-spacing="-0.5">PK</text></g>
+  <text x="146" y="101" font-size="54" font-weight="800" fill="#F8FAFC" letter-spacing="-1">Priyam <tspan fill="url(#name)">Keshri</tspan></text>
+  <text x="64" y="158" font-size="26" font-weight="600" fill="#E2E8F0">GenAI Developer</text>
+  <text x="64" y="190" font-size="17" fill="#A7B4CC">I build RAG systems, AI agents and ML apps that stay useful beyond the demo.</text>
+  <rect x="64.0" y="214" width="74.3" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.14"/>
+  <circle cx="79.0" cy="230" r="3.5" fill="#38BDF8"/>
+  <text x="90.0" y="235" font-size="14.5" fill="#E2E8F0" font-weight="500">RAG</text>
+  <rect x="148.3" y="214" width="105.9" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.14"/>
+  <circle cx="163.3" cy="230" r="3.5" fill="#A78BFA"/>
+  <text x="174.3" y="235" font-size="14.5" fill="#E2E8F0" font-weight="500">AI agents</text>
+  <rect x="264.2" y="214" width="111.0" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.14"/>
+  <circle cx="279.2" cy="230" r="3.5" fill="#34D399"/>
+  <text x="290.2" y="235" font-size="14.5" fill="#E2E8F0" font-weight="500">LLM evals</text>
+  <rect x="385.3" y="214" width="158.0" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.14"/>
+  <circle cx="400.3" cy="230" r="3.5" fill="#FBBF24"/>
+  <text x="411.3" y="235" font-size="14.5" fill="#E2E8F0" font-weight="500">Machine learning</text>
+  <rect x="553.3" y="214" width="136.7" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.14"/>
+  <circle cx="568.3" cy="230" r="3.5" fill="#F472B6"/>
+  <text x="579.3" y="235" font-size="14.5" fill="#E2E8F0" font-weight="500">Backend APIs</text>
+
+  <g filter="url(#shadow)"><rect x="736" y="40" width="420" height="220" rx="16" fill="#0B1020" fill-opacity="0.72"/></g>
+  <rect x="736.5" y="40.5" width="419" height="219" rx="15.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.14"/>
+  <circle cx="760" cy="62" r="5.5" fill="#F87171"/><circle cx="779" cy="62" r="5.5" fill="#FBBF24"/><circle cx="798" cy="62" r="5.5" fill="#34D399"/>
+  <text x="946" y="66" class="mono" font-size="12" fill="#64748B" text-anchor="middle">about_me.py</text>
+  <line x1="737" y1="84" x2="1155" y2="84" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <text x="770" y="112" class="mono" font-size="12" fill="#475569" text-anchor="end">1</text><text x="788.0" y="112" class="mono" font-size="13" xml:space="preserve"><tspan fill="#E2E8F0">priyam</tspan><tspan fill="#94A3B8"> = </tspan><tspan fill="#A5B4FC">Developer</tspan><tspan fill="#94A3B8">(</tspan></text>
+  <text x="770" y="136" class="mono" font-size="12" fill="#475569" text-anchor="end">2</text><text x="819.3" y="136" class="mono" font-size="13" xml:space="preserve"><tspan fill="#7DD3FC">focus</tspan><tspan fill="#94A3B8">=[</tspan><tspan fill="#5EEAD4">"RAG"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#5EEAD4">"agents"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#5EEAD4">"evals"</tspan><tspan fill="#94A3B8">],</tspan></text>
+  <text x="770" y="160" class="mono" font-size="12" fill="#475569" text-anchor="end">3</text><text x="819.3" y="160" class="mono" font-size="13" xml:space="preserve"><tspan fill="#7DD3FC">stack</tspan><tspan fill="#94A3B8">=[</tspan><tspan fill="#5EEAD4">"Python"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#5EEAD4">"FastAPI"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#5EEAD4">"Postgres"</tspan><tspan fill="#94A3B8">],</tspan></text>
+  <text x="770" y="184" class="mono" font-size="12" fill="#475569" text-anchor="end">4</text><text x="819.3" y="184" class="mono" font-size="13" xml:space="preserve"><tspan fill="#7DD3FC">based_in</tspan><tspan fill="#94A3B8">=</tspan><tspan fill="#5EEAD4">"Bengaluru, India"</tspan><tspan fill="#94A3B8">,</tspan></text>
+  <text x="770" y="208" class="mono" font-size="12" fill="#475569" text-anchor="end">5</text><text x="819.3" y="208" class="mono" font-size="13" xml:space="preserve"><tspan fill="#7DD3FC">open_to</tspan><tspan fill="#94A3B8">=</tspan><tspan fill="#5EEAD4">"AI/ML Engineer roles"</tspan><tspan fill="#94A3B8">,</tspan></text>
+  <text x="770" y="232" class="mono" font-size="12" fill="#475569" text-anchor="end">6</text><text x="788.0" y="232" class="mono" font-size="13" xml:space="preserve"><tspan fill="#94A3B8">)</tspan></text>
+  <rect class="cursor" x="798.8" y="220" width="8" height="15" rx="1" fill="#A5B4FC"/>
+</svg>
